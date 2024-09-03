@@ -1,0 +1,10 @@
+{
+  "name": "hpl-parimutuel",
+  "type": "module",
+  "dependencies": {
+    "@metaplex-foundation/mpl-toolbox": "^0.9.4"
+  },
+  "peerDependencies": {
+    "@metaplex-foundation/umi": ">= 0.9, < 1"
+  }
+}

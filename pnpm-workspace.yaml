@@ -1,0 +1,5 @@
+packages:
+  - "amm/js"
+  - "p2p/js"
+  - "parimutuel/js"
+  - "parlay/js"

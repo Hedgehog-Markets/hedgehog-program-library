@@ -1,0 +1,8 @@
+{
+  "editor.rulers": [100],
+
+  "files.readonlyInclude": {
+    "**/src/generated/**": true,
+    "**/idl.json": true
+  }
+}
