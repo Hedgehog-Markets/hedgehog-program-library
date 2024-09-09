@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hedgehog Program Library
-</h1>
+<h1 align="center">Hedgehog Program Library</h1>
 
 > [!WARNING]
 > Programs and clients may not have been formally audited.
@@ -17,11 +15,6 @@
 [P2P]: ./p2p/
 [Parimutuel]: ./parimutuel/
 [Parlay]: ./parlay/
-
-## Misc. Information
-
-- All associated market data can be fetched with the IPFS URI stored on chain.
-- If you generate markets the Hedgehog Markets front-end may not display those markets unless you reach out to the team first to get whitelisted. Join our discord or send a DM to x.com/HedgehogMarket if you are interested.
 
 ## License
 
