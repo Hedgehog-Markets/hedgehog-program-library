@@ -16,6 +16,14 @@
 [Parimutuel]: ./parimutuel/
 [Parlay]: ./parlay/
 
+### Legacy Programs
+
+| Name  | Program ID                                     |
+| ----- | ---------------------------------------------- |
+| [AMM] | `Hr4whNgXr3yZsJvx3TVSwfsFgXuSEPB1xKmvgrtLhsrM` |
+
+[AMM]: ./legacy/amm/
+
 ## License
 
 Licensed under either of [Apache License, Version 2.0](LICENSE-APACHE)

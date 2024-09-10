@@ -6,6 +6,15 @@ settings:
 
 importers:
 
+  legacy/amm/js:
+    dependencies:
+      '@metaplex-foundation/mpl-toolbox':
+        specifier: ^0.9.4
+        version: 0.9.4(@metaplex-foundation/umi@0.9.2)
+      '@metaplex-foundation/umi':
+        specifier: '>= 0.9, < 1'
+        version: 0.9.2
+
   p2p/js:
     dependencies:
       '@metaplex-foundation/mpl-toolbox':
@@ -16,6 +25,15 @@ importers:
         version: 0.9.2
 
   parimutuel/js:
+    dependencies:
+      '@metaplex-foundation/mpl-toolbox':
+        specifier: ^0.9.4
+        version: 0.9.4(@metaplex-foundation/umi@0.9.2)
+      '@metaplex-foundation/umi':
+        specifier: '>= 0.9, < 1'
+        version: 0.9.2
+
+  parlay/js:
     dependencies:
       '@metaplex-foundation/mpl-toolbox':
         specifier: ^0.9.4

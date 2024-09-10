@@ -1,5 +1,5 @@
 packages:
-  - "amm/js"
+  - "legacy/amm/js"
   - "p2p/js"
   - "parimutuel/js"
   - "parlay/js"
